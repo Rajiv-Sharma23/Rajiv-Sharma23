@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Rajiv-Sharma23
-- 🌱 I’m currently learning Full MERN stack devlopment...
+- 👋 Hi, I’m Rajiv Sharma
+- 🌱 I’m Full Stack javascript devloper...
 
 <!---
 Rajiv-Sharma23/Rajiv-Sharma23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
